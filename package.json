@@ -1,0 +1,18 @@
+{
+  "name": "csce-315",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather.js",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "prompt-sync": "^4.2.0",
+    "sugar": "^2.0.6",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
